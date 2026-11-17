@@ -7,10 +7,10 @@ I build practical systems that make real work easier: small-business websites, w
 ## Featured projects
 
 - **[Second Sight Solutions](https://github.com/S3OPS/secondsightsolutions)** — website for my veteran-owned drone services company serving Central Texas (HTML/CSS/JS)
-- **[Maintenance Tracking System](https://github.com/S3OPS/Maintenance)** — a Google Apps Script that generates a complete hotel maintenance workbook: dashboard, work orders, room inspections, parts inventory, PM schedules. Read the [case study](https://github.com/S3OPS/Maintenance/blob/main/CASE_STUDY.md)
+- **Maintenance Tracking System** — a Google Apps Script that generates a complete hotel maintenance workbook: dashboard, work orders, room inspections, parts inventory, PM schedules. Read the [case study](https://github.com/S3OPS/S3OPS/blob/main/case-studies/hotel-maintenance-system.md) — the code runs a live workplace system, so that repo is private
 - **[Autoflight](https://github.com/S3OPS/autoflight)** — Python/OpenCV tool that stitches overlapping drone photos into orthomosaic maps
 - **[Part 107 Study Guide](https://github.com/S3OPS/part-107-study-guide)** — interactive FAA Remote Pilot exam study guide with 192 questions and a timed exam simulator
-- **[Blood Craft](https://github.com/S3OPS/BloodCraft)** — *Blood Craft: Awakening*, my supernatural vampire / blood-magic novel, headed for Kindle publication
+- **Blood Craft** — *Blood Craft: Awakening*, my supernatural vampire / blood-magic novel, headed for Kindle publication (manuscript repos are private until launch)
 
 ## Skills
 
